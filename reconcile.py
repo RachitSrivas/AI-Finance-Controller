@@ -85,7 +85,7 @@ def ai_match(unmatched_ledger, unmatched_bank, api_key):
         "Authorization": f"Bearer {api_key}"
     }
     data = {
-        "model": "mistral-large-latest",
+        "model": "mistral-small-latest",
         "messages": [{"role": "user", "content": prompt}],
         "response_format": {"type": "json_object"} ,
         "temperature": 0.0 ,
