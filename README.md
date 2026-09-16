@@ -1,5 +1,4 @@
 # 📊 AI Finance Controller 
-**Razorpay Buildathon - Track 4 Submission**
 
 An automated multi-source reconciliation agent that closes the finance-ops loop. Built to solve the "verification capacity" bottleneck, this project combines the speed of deterministic code with the reasoning power of Generative AI, protected by strict mathematical guardrails to eliminate hallucinations.
 
